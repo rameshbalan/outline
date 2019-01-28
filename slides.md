@@ -2,6 +2,7 @@ class: center, middle, title-slide
 background-color: black
 background-image: url(image/intro_background.png)
 
+# Proposal Defense
 ## Sex Chromosome Dosage Compensation in Beetles
 #### Balan Ramesh
 ##### March 8, 2019
